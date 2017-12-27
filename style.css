@@ -1,9 +1,6 @@
 *{  box-sizing: border-box;
 }
 
-
-
-
 body {
     background-color: #f7f7f7;
 }
@@ -119,6 +116,7 @@ body {
 .btn-open-text {
     float: left;
 }
+
 .btn-open-text p {
     line-height: 40px;
     display: block;
@@ -153,7 +151,3 @@ body {
 ::-moz-placeholder          {color: rgb(46,54,82);}
 :-moz-placeholder           {color: rgb(46,54,82);}
 :-ms-input-placeholder      {color: rgb(46,54,82);}
-
-/* rgb(196,2,25) */
-/* rgb(174,2,23) */
-/* rgb(46,54,82) */
