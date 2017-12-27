@@ -37,7 +37,7 @@ body {
     padding-top: 10px;
     text-align: center;
     color: white;
-    font-family: "Arimo";
+    font-family: "Rubik";
     font-weight: 400;
     font-size: 16px;
     margin: auto;
@@ -55,8 +55,8 @@ body {
     line-height: 21px;
     margin: auto;
     text-align: right;
-    font-family: "Arimo";
-    font-weight: 700;
+    font-family: "Rubik";
+    font-weight: 500;
     font-size: 13px;
     color: rgb(46,54,82);
     background-color: rgb(247, 245, 245);
@@ -69,8 +69,8 @@ body {
     margin: auto;
     width: 40%;
     background: radial-gradient(rgb(0,0,0,0.6),#ffffffd3, rgb(253,253,254));
-    font-family: "Arimo";
-    font-weight: 700;
+    font-family: "Rubik";
+    font-weight: 500;
     font-size: 14px;
     color: rgb(174,2,23);
     margin-top: 10px;
@@ -86,7 +86,7 @@ body {
 .forgot-pass-text a {
     display: block;
     text-decoration: none;
-    font-family: "Arimo";
+    font-family: "Rubik";
     font-weight: 400;
     font-size: 12px;
     color: white;
@@ -121,7 +121,7 @@ body {
     line-height: 40px;
     display: block;
     margin: auto;
-    font-family: "Arimo";
+    font-family: "Rubik";
     font-weight: 400;
     font-size: 13px;
     color: rgb(46,54,82);
@@ -138,7 +138,7 @@ body {
     display: block;
     text-align: center;
     text-decoration: none;
-    font-family: "Arimo";
+    font-family: "Rubik";
     font-weight: 400;
     font-size: 13px;
     color: white;
